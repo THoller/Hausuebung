@@ -12,6 +12,10 @@
 
 #----------------------------------------------------------------
 # Aufgabe 1                                           
+ldungen.)
+library ( foreign )
+allbus <- read.spss (" ZA5240 _v2 -1 -0. sav", to . data . frame = TRUE , use .
+                     value . labels = TRUE )
 
 
 
